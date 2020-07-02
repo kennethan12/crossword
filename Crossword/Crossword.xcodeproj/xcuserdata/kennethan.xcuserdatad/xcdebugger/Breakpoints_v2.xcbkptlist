@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "689F5F2B-6E0A-4C59-97FB-947A2262DBF1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "83AB2CE8-82B8-4C2B-9761-707EE1A3529D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboardTests/CrosswordWithStoryboardTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "testMiniOne()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "712206CB-4F03-4040-8F00-5EE01D63EE02"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboardTests/CrosswordWithStoryboardTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "testMiniOne()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "177E1363-42F7-4007-8E89-65C4C3E80001"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboard/Puzzle Source/DataFiles.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "loadFile(named:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "177E1363-42F7-4007-8E89-65C4C3E80001 - 1a9ccc76cb2dfde3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CrosswordWithStoryboard.DataFiles.loadFile(named: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/DataFiles.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "177E1363-42F7-4007-8E89-65C4C3E80001 - cd3ec3428b58e983"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static CrosswordWithStoryboardTests.DataFiles.loadFile(named: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboardTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/DataFiles.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0CA7FDEA-5BE3-413C-A79C-2752FB65FA04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboardTests/CrosswordWithStoryboardTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "CrosswordWithStoryboardTests"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B66C6AB7-21D0-4710-9420-39D326B0BA48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboard/Puzzle Source/PuzzleModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "listAcross()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B66C6AB7-21D0-4710-9420-39D326B0BA48 - 137ce371387d4f95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboard.Puzzle.provideHint(input: CrosswordWithStoryboard.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  uuid = "B66C6AB7-21D0-4710-9420-39D326B0BA48 - fadbe6676f64231d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CrosswordWithStoryboard.Puzzle.Box) -&gt; Swift.Bool in CrosswordWithStoryboard.Puzzle.provideHint(input: CrosswordWithStoryboard.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "B66C6AB7-21D0-4710-9420-39D326B0BA48 - 703bd8e8ae3cd6ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboardTests.Puzzle.provideHint(input: CrosswordWithStoryboardTests.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboardTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  uuid = "B66C6AB7-21D0-4710-9420-39D326B0BA48 - 1533cc693cc05df4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CrosswordWithStoryboardTests.Puzzle.Box) -&gt; Swift.Bool in CrosswordWithStoryboardTests.Puzzle.provideHint(input: CrosswordWithStoryboardTests.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboardTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "55">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "507F7593-A786-490E-AA77-229F3D21D9B3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboard/Puzzle Source/PuzzleModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "Puzzle"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "507F7593-A786-490E-AA77-229F3D21D9B3 - 137ce371387d4f95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboard.Puzzle.provideHint(input: CrosswordWithStoryboard.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "1062">
+               </Location>
+               <Location
+                  uuid = "507F7593-A786-490E-AA77-229F3D21D9B3 - 703bd8e8ae3cd6ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboardTests.Puzzle.provideHint(input: CrosswordWithStoryboardTests.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboardTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "133"
+                  endingLineNumber = "133"
+                  offsetFromSymbolStart = "1062">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2349C26B-F66C-47D3-A83A-76525C9F7F3B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboard/Puzzle Source/PuzzleModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "Puzzle"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2349C26B-F66C-47D3-A83A-76525C9F7F3B - 137ce371387d4f95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboard.Puzzle.provideHint(input: CrosswordWithStoryboard.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "721">
+               </Location>
+               <Location
+                  uuid = "2349C26B-F66C-47D3-A83A-76525C9F7F3B - 703bd8e8ae3cd6ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboardTests.Puzzle.provideHint(input: CrosswordWithStoryboardTests.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboardTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "721">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3564413D-1D87-4E45-9376-BD5817CCBECE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboard/Puzzle Source/PuzzleModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "Puzzle"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3564413D-1D87-4E45-9376-BD5817CCBECE - 137ce371387d4f95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboard.Puzzle.provideHint(input: CrosswordWithStoryboard.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "1282">
+               </Location>
+               <Location
+                  uuid = "3564413D-1D87-4E45-9376-BD5817CCBECE - 703bd8e8ae3cd6ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CrosswordWithStoryboardTests.Puzzle.provideHint(input: CrosswordWithStoryboardTests.Puzzle.Box, direction: Swift.String) -&gt; Swift.String"
+                  moduleName = "CrosswordWithStoryboardTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kennethan/Documents/Williams/&apos;19-&apos;20/SPRING20/CSCI%20326/project/cs326-s20-project-20jmj6/Crossword/CrosswordWithStoryboard/Puzzle%20Source/PuzzleModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "134"
+                  endingLineNumber = "134"
+                  offsetFromSymbolStart = "1282">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4764955-059C-4975-8C40-74EB983D456C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CrosswordWithStoryboardTests/CrosswordWithStoryboardTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "testProvideHint()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

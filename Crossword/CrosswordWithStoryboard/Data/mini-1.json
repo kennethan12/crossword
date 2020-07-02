@@ -1,0 +1,268 @@
+{
+  "entries": [
+    {
+      "number" : "1",
+      "direction" : "across",
+      "term" : "chai",
+      "hint" : "Trendy spiced tea",
+      "boxes" : [
+        {
+          "letter" : "c",
+          "id" : 1
+        },
+        {
+          "letter" : "h",
+          "id" : 2
+        },
+        {
+          "letter" : "a",
+          "id" : 3
+        },
+        {
+          "letter" : "i",
+          "id" : 4
+        }
+      ]
+    },
+    {
+      "number" : "5",
+      "direction" : "across",
+      "term" : "trans",
+      "hint" : "The \"T\" of LGBTQ, informally",
+      "boxes" : [
+        {
+          "letter" : "t",
+          "id" : 5
+        },
+        {
+          "letter" : "r",
+          "id" : 6
+        },
+        {
+          "letter" : "a",
+          "id" : 7
+        },
+        {
+          "letter" : "n",
+          "id" : 8
+        },
+        {
+          "letter" : "s",
+          "id" : 9
+        }
+      ]
+    },
+    {
+      "number" : "6",
+      "direction" : "across",
+      "term" : "heidi",
+      "hint" : "Model/TV host Klum",
+      "boxes" : [
+        {
+          "letter" : "h",
+          "id" : 10
+        },
+        {
+          "letter" : "e",
+          "id" : 11
+        },
+        {
+          "letter" : "i",
+          "id" : 12
+        },
+        {
+          "letter" : "d",
+          "id" : 13
+        },
+        {
+          "letter" : "i",
+          "id" : 14
+        }
+      ]
+    },
+    {
+      "number" : "7",
+      "direction" : "across",
+      "term" : "apres",
+      "hint" : "After, en français",
+      "boxes" : [
+        {
+          "letter" : "a",
+          "id" : 15
+        },
+        {
+          "letter" : "p",
+          "id" : 16
+        },
+        {
+          "letter" : "r",
+          "id" : 17
+        },
+        {
+          "letter" : "e",
+          "id" : 18
+        },
+        {
+          "letter" : "s",
+          "id" : 19
+        }
+      ]
+    },
+    {
+      "number" : "8",
+      "direction" : "across",
+      "term" : "ness",
+      "hint" : "Loch __ monster",
+      "boxes" : [
+        {
+          "letter" : "n",
+          "id" : 20
+        },
+        {
+          "letter" : "e",
+          "id" : 21
+        },
+        {
+          "letter" : "s",
+          "id" : 22
+        },
+        {
+          "letter" : "s",
+          "id" : 23
+        }
+      ]
+    },
+    {
+      "number" : "1",
+      "direction" : "down",
+      "term" : "crepe",
+      "hint" : "Thin French pancake",
+      "boxes" : [
+        {
+          "letter" : "c",
+          "id" : 1
+        },
+        {
+          "letter" : "r",
+          "id" : 6
+        },
+        {
+          "letter" : "e",
+          "id" : 11
+        },
+        {
+          "letter" : "p",
+          "id" : 16
+        },
+        {
+          "letter" : "e",
+          "id" : 21
+        }
+      ]
+    },
+    {
+      "number" : "2",
+      "direction" : "down",
+      "term" : "hairs",
+      "hint" : "The average head has 120,000",
+      "boxes" : [
+        {
+          "letter" : "h",
+          "id" : 2
+        },
+        {
+          "letter" : "a",
+          "id" : 7
+        },
+        {
+          "letter" : "i",
+          "id" : 12
+        },
+        {
+          "letter" : "r",
+          "id" : 17
+        },
+        {
+          "letter" : "s",
+          "id" : 22
+        }
+      ]
+    },
+    {
+      "number" : "3",
+      "direction" : "down",
+      "term" : "andes",
+      "hint" : "World's longest above-ground mountain range",
+      "boxes" : [
+        {
+          "letter" : "a",
+          "id" : 3
+        },
+        {
+          "letter" : "n",
+          "id" : 8
+        },
+        {
+          "letter" : "d",
+          "id" : 13
+        },
+        {
+          "letter" : "e",
+          "id" : 18
+        },
+        {
+          "letter" : "s",
+          "id" : 23
+        }
+      ]
+    },
+    {
+      "number" : "4",
+      "direction" : "down",
+      "term" : "isis",
+      "hint" : "Mideast terror group",
+      "boxes" : [
+        {
+          "letter" : "i",
+          "id" : 4
+        },
+        {
+          "letter" : "s",
+          "id" : 9
+        },
+        {
+          "letter" : "i",
+          "id" : 14
+        },
+        {
+          "letter" : "s",
+          "id" : 19
+        }
+      ]
+    },
+    {
+      "number" : "5",
+      "direction" : "down",
+      "term" : "than",
+      "hint" : "Larger __ life",
+      "boxes" : [
+        {
+          "letter" : "t",
+          "id" : 5
+        },
+        {
+          "letter" : "h",
+          "id" : 10
+        },
+        {
+          "letter" : "a",
+          "id" : 15
+        },
+        {
+          "letter" : "n",
+          "id" : 20
+        }
+      ]
+    }
+  ]
+}
